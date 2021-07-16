@@ -6,11 +6,11 @@
 # URL settings 
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
+url: https://ubc-library-rbsc.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /oral-history-as-data
+baseurl: /gillis-2021_ohd
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/oral-history-as-data
+repository: https://github.com/ubc-library-rbsc/gillis-2021_ohd
 
 
 ##########
