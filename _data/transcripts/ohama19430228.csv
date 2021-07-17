@@ -1,0 +1,19 @@
+timestamp,words,tags
+1,"Rainier, Alta.",
+,"Feb 28, 1943",
+,"Dear Joan,",
+,"Hello there. Just thought I’d drop a line. I’m not quite sure of the last time I wrote, but I rather imagine that it was none too recently.",
+,"Well, how are you doin’ these dismal days? How’s school? Boring or interesting? Sonny tells me you kids have to go to school on Saturdays, too. Is it true? Too bad if it is. Gosh, you may be too busy to",
+2,"write to me. And that would be unbearable. Really. Well, I’ll just hope for the best.",Joan
+,"How are you making out with that “certain guy”? If he don’t wan give you a glance, he ought to have his head examined. Maybe I shouldn’t have said that seeing how you like him so. You’ll have to pardon me.",
+,How are your other dates coming along? Surely you don’t devote all your time to this guy! Do you have,
+3,"lots of fun or do they bore you to death. Seems you have lots of fun. Well, that’s the right and only way.",
+,Is the school the same? How are the girl cadets getting along? Do you manage to keep in step with all the other ???! Or do you like to be different!,Education;Homesickness
+,"How are the teachers? Still the same? Tch, tch! You kids seem to have raw? Times with Mr. ???.",Education
+,"He sure must be patient with you taks, but that’s what makes a good teacher. Agree?",Education
+4,"How are you Dad and Mother? How’s Donnie? Hope they are well. And of course that goes for you, too.",Joan
+,"Well, Joan, theren’t not much to write about over here, you know that. The days still come and go. ‘Tis a sad world!",LivingConditions
+,"I don’t want to bore you with all my “buffing”??? So until something pleasant happens I'll say,",
+,So long for a while,
+,"Your loving pal,",
+,Al.,
