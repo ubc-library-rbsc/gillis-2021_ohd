@@ -1,7 +1,7 @@
 ---
 object-id: ohama
 title: Albert Ohama
-date-interviewed: 
+date-interviewed: 1942-1943
 location: Spuzzum, BC and Rainier, AB
 ---
 
