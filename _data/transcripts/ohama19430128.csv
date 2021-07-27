@@ -2,12 +2,13 @@ timestamp,words,tags
 1,"Rainier, Alta.",
 ,"Jan 28, 1943",
 ,"Dear Joan,",
-,"Thanks for all the swell letters. It’s awfully nice of you to write so often -- and such nice letters, too! Gee, ain’t I lucky! It ain’t everybody that has someone to write to him on Christmas Eve at 11:30 P.M.! You’re really swell, Joan! Being your “victor” is swell, Joan!",Joan
+,"Thanks for all the swell letters. It’s awfully nice of you to write so often -- and such nice letters, too! Gee, ain’t I lucky! It ain’t everybody that has someone to write to him on Christmas Eve at 11:30 P.M.! You’re really swell, Joan!",Joan
+,"Being your “victor” is swell, Joan!",WWII
 ,"You know, three weeks after Christmas Eve, when I got your letter, I spent it all over again -- in your house! Boy it was swell! I’m glad you liked the gift.",Joan
 ,"So you had a party. Gee, I bet the fellas and gals had lots of fun -- and why shouldn’t they, when they have a swell hostess like you!! Poor you, hunny, to clean up the mess!",
 ,"Say, these two little cousins of",
 2,yours sound very interesting you’ll have to introduce them to me sometime. Billy -- the one who wields the pencil -- must be a real card.,
-,"Remember you asked if anyone out here raised bees ? Well, yes! There’s a couple of big apiares [sic] out here. Ho! It couldn’t have been our name on it -- although we have a hive ‘neath our house. ??? ??? says he gets ‘bout 300lbs out each year but we didn’t get around to it (that’s how busy -- or ignorant we were.) I guess the bees have eaten it all by now!",LivingConditions
+,"Remember you asked if anyone out here raised bees ? Well, yes! There’s a couple of big apiares [sic] out here. Ho! It couldn’t have been our name on it -- although we have a hive ‘neath our house. ??? ??? says he gets ‘bout 300lbs out each year but we didn’t get around to it (that’s how busy -- or ignorant we were.) I guess the bees have eaten it all by now!",Living-conditions
 ,"Oh, another thing, you seem to remember Kay and Juke very well -- better than I infact! They and their dad, were down here last summer and then they returned to Lethbridge. That’s where my brother works! Mother and May just returned from this place and they say they are getting along very well!",
 ,Christmas would have been perfect if my,
 3,Brother and his family could have been with us. We sent them lots of things for Christmas though.,
@@ -16,9 +17,9 @@ timestamp,words,tags
 ,"Listen, who’s suppose to be telling me of home -- you or me!",Homesickness
 ,"I guess I should tell you a little, anyway, of what’s happening down here.",
 ,Well nothin’ much ever happens,
-4,"out here! The days just come ‘n go. What a life! Had a blizzard last week. Had to work ‘cause I was workin’ for someone down the road. The rest of the family stayed indoors that day. The roads were blocked by drifts and the mail truck didn’t get through, fortunately it came the next day though.",LaborConditions;LivingConditions
-,"Oh, Christmas and New Years were swell! We all had a grand time. So help me, the Christmas turkey never tasted better -- maybe because we worked up a hefty appetite by skating. The weather was just like B.C. in Winter. There was no snow ‘till late Christmas night. We (the younger Ohamas) went to our neighbors’ party. Stayed ‘till two and had a swell time.",Recreation;LivingConditions
-5,"New Years was a little different. We had snow and it was a little colder. New Years Eve we planned to go to the hall shin-dig, but the car broke down at the last minute. (The same thing happened when we started out for the local school concert! Wotta lousy jalopy! They said, after it was all over, we really missed somethin’) Well, anyway, we managed to ??? over one of the neighbors and his family. Boy, did we have a lot to drink -- pop, of course! (Don’t worry, Joan, all us boys were sober!)",Recreation;LivingConditions
+4,"out here! The days just come ‘n go. What a life! Had a blizzard last week. Had to work ‘cause I was workin’ for someone down the road. The rest of the family stayed indoors that day. The roads were blocked by drifts and the mail truck didn’t get through, fortunately it came the next day though.",Labor-conditions;Living-conditions
+,"Oh, Christmas and New Years were swell! We all had a grand time. So help me, the Christmas turkey never tasted better -- maybe because we worked up a hefty appetite by skating. The weather was just like B.C. in Winter. There was no snow ‘till late Christmas night. We (the younger Ohamas) went to our neighbors’ party. Stayed ‘till two and had a swell time.",Recreation;Living-conditions
+5,"New Years was a little different. We had snow and it was a little colder. New Years Eve we planned to go to the hall shin-dig, but the car broke down at the last minute. (The same thing happened when we started out for the local school concert! Wotta lousy jalopy! They said, after it was all over, we really missed somethin’) Well, anyway, we managed to ??? over one of the neighbors and his family. Boy, did we have a lot to drink -- pop, of course! (Don’t worry, Joan, all us boys were sober!)",Recreation;Living-conditions
 ,I’m boring you so I’ll close -- while I got the chance -- ‘cause I’ll just go on and on.,
 ,You be hearing from me soon.,
 ,Take care of yourself and bundle up and be good!,
