@@ -1,7 +1,7 @@
 ---
-object-id: mototsune19420731
+object-id: mototsune19430718
 title: Sumi Mototsune
-date-interviewed: July 31, 1942
+date-interviewed: July 18, 1943
 location: Raymond, AB
 ---
 
