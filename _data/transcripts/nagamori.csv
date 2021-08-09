@@ -1,5 +1,5 @@
 timestamp,words,tags
-1,P.O. Box 23,
+Letter 1,P.O. Box 23,
 ,"Headingly, Man.",
 ,July 5 /42,
 ,"Dear Joan,",
@@ -24,7 +24,7 @@ timestamp,words,tags
 ,Yours sincerely,
 ,Tad.,
 ,P.S. Please give me best regards to Kirky (Booo),Homesickness
-2,P.O. Box 23,
+Letter 2,P.O. Box 23,
 ,Headingly Man.,
 ,"Aug. 3, /42",
 ,Dear Joan--,
@@ -61,7 +61,7 @@ timestamp,words,tags
 ,P.S. Hoping to hear from you soon I’ll be expecting your picture at the same time,Joan; Photographs
 ,I hope you didn’t mind my poor grammar and cross-outs ect. [sic],Writing
 ,"About that drawing, I aint much of a drawer but if you can stand it to have it around I’ll try and do one for you.",Recreation
-3,P.O. Box 23,
+Letter 3,P.O. Box 23,
 ,Headingly Man.,
 ,"Oct. 4, /42",
 ,Dear Joan:,
@@ -82,7 +82,7 @@ timestamp,words,tags
 ,Tad,
 ,Here is a drawing I have done this afternoon. It took me an hour and a half to draw and paint this. This ain’t nothing wonderful but since I drew it I thought I might as well send it to you.,Recreation
 ,P.S. please write soon I’ll be waiting,
-4,"Lorette",
+Letter 4,"Lorette",
 ,"Manitoba",
  ,"Jan 9, 1943",
  ,"Dear Joan --",
@@ -107,7 +107,7 @@ timestamp,words,tags
 ,"Write soon please",
 ,"Always",
 ,"Tad",
-5,"Lorette Manitoba",
+Letter 5,"Lorette Manitoba",
 ,"Feb. 14 /43",
 ,"[doodle of two hearts impaled by an arrow]",
 ,"Dear Joan:",
@@ -128,7 +128,7 @@ timestamp,words,tags
 ,"Tad",
 ,"P.S. I’ll be waiting for your swell picture",Photographs
 ,"[doodle of two hearts impaled by an arrow]",
-6, Lorette Manitoba,
+Letter 6, Lorette Manitoba,
 ,April 11 /43,
 ,Dear Joan:,
 ,"Hellow there, Many thanks for the most welcome letter I received quite awhile ago and Gosh! ",
@@ -151,7 +151,7 @@ timestamp,words,tags
 ,Always,
 ,Tad,
 ,P.S. I hope you haven’t passed out by my picture,
-7,c/o Dryden Paper Co.,
+Letter 7,c/o Dryden Paper Co.,
 ,"Camp 29,",
 ,"Dryden Ontario,",
 ,"Jan 16, /44",
