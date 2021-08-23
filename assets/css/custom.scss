@@ -44,6 +44,12 @@ html {
   outline-color: #a4ac86;
 }
 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    background-color: #99a277;
+    border-color: #99a277;
+    outline-color: #99a277;
+}
+
 // base variables
 $text-color:       #111;
 $background-color: #fdfdfd;
