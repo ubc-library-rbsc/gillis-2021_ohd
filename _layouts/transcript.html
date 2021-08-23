@@ -53,7 +53,7 @@ layout: default
         <h3 class="text-center">
           <div class="form-inline my-2 my-lg-0 ">
             <input type="text" id="quicksearch" placeholder="Search ... " class="searchinput form-control mr-2 col-4">
-            <input class="searchinput mx-2 btn btn-lg btn-primary col-2" title="Search" value="Go" alt="Search" id="goButton" onclick="filterItems()">
+            <input class="searchinput mx-2 btn col-2" title="Search" value="Go" alt="Search" id="goButton" onclick="filterItems()" style="color:#a4ac86">
             <button class="reset btn btn-secondary ml-2" href="#" data-filter="" class="filter">Reset Filters</button>
           </div>
           <h2><span class="h5">Filter by topic:</span> <select id="filters" title="Jump to a year" class="filteroptions" style="max-width: 100%;">
@@ -77,9 +77,9 @@ layout: default
           {%for linetotal in linestotal%}
           {% assign sum = sum | plus: linetotal %}
           {%endfor%}
-          <h4><span class="info2"><span id="numberof">{{ sum}}</span> of {{ sum }} rows</span> (click a missing row to make it appear)</h4>
+          <h5><span class="info2"><span id="numberof">{{ sum}}</span> of {{ sum }} rows</span> (click a missing row to make it appear)</h5>
           {% else %}
-          <h4><span class="info2"><span id="numberof">{{ items | size }}</span> of {{ items | size }} rows</span> (click a missing row to make it appear)</h4>
+          <h5><span class="info2"><span id="numberof">{{ items | size }}</span> of {{ items | size }} rows</span> (click a missing row to make it appear)</h5>
           {% endif %}
 
       </div>
