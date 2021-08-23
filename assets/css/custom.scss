@@ -50,6 +50,18 @@ html {
     outline-color: #99a277;
 }
 
+.btn-info {
+  background-color: #bf7459;
+  border-color: #bf7459;
+  outline-color: #bf7459;
+}
+
+.btn-info:hover {
+  background-color: #b86447;
+  border-color: #b86447;
+  outline-color: #b86447;
+}
+
 // base variables
 $text-color:       #111;
 $background-color: #fdfdfd;
