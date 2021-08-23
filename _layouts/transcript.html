@@ -38,7 +38,12 @@ layout: default
         <h2 class="poet-name my-2">{{ page.title}}</h2>
         <p>{%if page.location%}{{page.location}} on {%endif%}{%if page.date-interviewed%}{{page.date-interviewed}}{%endif%} </p>
         {%if page.interviewer%}<p>Interviewer: {{page.interviewer}}</p>{%endif%}
-        {%if page.citation%}<p>Preferred citation: {{page.citation}}</p>{%endif%}
+        {%if page.citation%}<p><div class="card">
+         <div class="card-body">
+            <h5 class="card-title">Preferred Citation</h5>
+            <p class="card-text">{{page.citation}}</p>
+         </div>
+        </div></p>{%endif%}
         {%if page.cbitem%}<p>{{page.cbitem}}</p>{%endif%}
       </header>
       {% if page.av_source contains 'mp3' %}{% include player/mp3.html %}{% elsif page.av_source contains 'youtube' %}{% include player/youtube.html %}{% elsif page.av_source contains 'soundcloud' %}{% include player/soundcloud.html %}{% endif %}
