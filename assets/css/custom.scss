@@ -50,6 +50,20 @@ html {
     outline-color: #99a277;
 }
 
+.btn-primary:focus {
+    background-color: #99a277;
+    border-color: #99a277;
+    outline-color: #99a277;
+    box-shadow: #a4ac86;
+}
+
+.btn-primary:active {
+    background-color: #99a277;
+    border-color: #99a277;
+    outline-color: #99a277;
+    box-shadow: #a4ac86;
+}
+
 .btn-info {
   background-color: #bf7459;
   border-color: #bf7459;
