@@ -38,6 +38,12 @@ html {
     font-family: 'Oxygen', sans-serif !important;
 }
 
+.btn-primary, 
+        .btn-primary:hover {
+            background-color: #D5A021;
+            border-color: #D5A021;
+}
+
 // base variables
 $text-color:       #111;
 $background-color: #fdfdfd;
