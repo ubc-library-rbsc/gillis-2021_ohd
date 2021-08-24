@@ -3,8 +3,8 @@ timestamp,words,tags
 ,"Ranier, Atla.",
 ,Dear Joan:,
 ,Hello there! I just received your letter last mail-day. Gee it was swell to hear from you. Thanks a million for writing.,
-,"Gosh, I’ve been a terrible pal. You’ve got all the right in the world to be angry with me, Joan. I love being busy -- but not so busy that I should neglect writing to you. Gee, Joan, I’m awful sorry, I guess I was never cut-out to write letters. But from now on you can be sure you’ll hear from me often--",Writing;Joan
-2,"maybe too often. I hope you don’t think I’ve forgotten you. Do you? I was swell of youto write -- and -- gosh',' I just feel awful about it. Anyway we’re writing to each other now-- and thats what counts. Isn’t it? I still feel terrible and I guess I always will--unless you Say you’ll forgive me. Please!",Writing;Joan
+,"Gosh, I’ve been a terrible pal. You’ve got all the right in the world to be angry with me, Joan. I love being busy -- but not so busy that I should neglect writing to you. Gee, Joan, I’m awful sorry, I guess I was never cut-out to write letters. But from now on you can be sure you’ll hear from me often--",Communications;Joan
+2,"maybe too often. I hope you don’t think I’ve forgotten you. Do you? I was swell of youto write -- and -- gosh',' I just feel awful about it. Anyway we’re writing to each other now-- and thats what counts. Isn’t it? I still feel terrible and I guess I always will--unless you Say you’ll forgive me. Please!",Communications;Joan
 ,"Well to change the subject to something much more important, how are you, Joay[?]? How are your Mom and Dad? And little Donnie? I just know everythings all right. How are all your friends?",Joan
 3,"I hope I’m still one of them. Let’s talk about you, Joan, shall we? Say, did you know you are a beautiful little flatterer? You had me “redder than a beet.” Really! But really Joan, you’re so understanding and everythin’, I think your [sic] swell. Honestly!! And, gosh, where did you learn to write so well. Honestly, when I read your letter, I think I’m sittin’ right next to you.",Joan
 ,"Are you enjoying your holiday? Wasn’t that last minute of school, a grand and glorious Feelin’? I can just picture you, Joan, slamming your",Homesickness;Education
@@ -42,5 +42,5 @@ timestamp,words,tags
 13,"P.S. c/o of Mr. Bennett is not necessary. Call me whatever you like, Joan. I could add a lot more of nick-names to your list but anything will do. I ain’t fussy -- much. Ha! Ha!",Communications;Joan
 ,Al.,
 ,P.P.S.,
-,Please excuse my hen-scratch. I know I’m a terrible writer. We have hens but they didn’t help me! Ha! Ha!,Writing
+,Please excuse my hen-scratch. I know I’m a terrible writer. We have hens but they didn’t help me! Ha! Ha!,Communications
 ,Al.,
