@@ -8,7 +8,6 @@ filter: tags
 permalink: /subjects.html
 ---
 
-<br><br>
 ## Colour-coded Subject Visualization
 
 {:.small}
