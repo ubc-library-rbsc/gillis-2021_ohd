@@ -24,8 +24,8 @@ tagline: In-progress demo of OHD as used for letters
 # this description might appear in search result lists, keep around 160 characters max
 description: "In progress"
 # Organization branding
-organization-name: "Rare Books and Special Collections, University of British Columbia"
-organization-link: https://rbsc.library.ubc.ca/
+organization-name:
+organization-link:
 organization-logo-banner: 
 organization-logo-nav: 
 
