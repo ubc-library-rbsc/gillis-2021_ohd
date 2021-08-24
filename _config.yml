@@ -17,12 +17,12 @@ repository: https://github.com/ubc-library-rbsc/gillis-2021_ohd
 # Site settings
 #
 # title of site appears in banner
-title: Gillis Project OHD
+title: I Know We'll Meet Again - Transcripts
 # tagline appears in banner
-tagline: In-progress demo of OHD as used for letters
+tagline: Correspondence and the forced dispersal of Japanese Canadians
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "In progress"
+description: "This digital exhibition on Japanese Canadian forced dispersal and internment features materials from the Joan Gillis fonds, housed at the University of British Columbia Library's Rare Books and Special Collections."
 # Organization branding
 organization-name:
 organization-link:
